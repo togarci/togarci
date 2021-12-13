@@ -14,12 +14,16 @@
 </p>
 
 <br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=togarci&layout=compact&theme=react&hide=jupyter%20notebook,html" width="50%" />
+<div align="center" width="100%" >
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=littlebru&theme=react" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=togarci&layout=compact&theme=react&hide=jupyter%20notebook,html" width="50%" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="48%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=littlebru&theme=react" width="50%" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="50%" />
+</div>
+
+<br>
 <br>
   
 <details>
