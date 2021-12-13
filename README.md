@@ -23,9 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=react" width="50%" />
 </div>
 
-<br>
-<br>
-  
+
 <details>
    <summary align="left">
 Career
