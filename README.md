@@ -29,7 +29,7 @@
 
 <div>
   <details>
-    <summary align="left">
+    <summary>
   Career
     </summary> <br>
     
@@ -44,7 +44,7 @@
   </details>
 
   <details>
-  <summary align="left">
+  <summary>
   Technologies and tools
     </summary> <br>
   
