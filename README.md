@@ -75,7 +75,7 @@
 
 <div width="100%" align="start">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=togarci&layout=compact&theme=material-palenight&hide=jupyter%20notebook" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=material-palenight&line_height=32" width="45%" height="100%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=material-palenight&line_height=32" width="50%" height="100%"/>
 </div>
 
 
