@@ -74,8 +74,13 @@
 # Score
 
 <div>
+  <good>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=togarci&layout=compact&theme=material-palenight&hide=jupyter%20notebook,html" width="49%" />
+  </good>
+
+  <bad>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=togarci&count_private&count_private&include_all_commits=true&show_icons=true&theme=material-palenight&line_height=32" width="49%" height="100%"/>
+  </bad>
 </div>
 
 
